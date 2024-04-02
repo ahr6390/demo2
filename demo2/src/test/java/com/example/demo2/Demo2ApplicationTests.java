@@ -10,4 +10,8 @@ class Demo2ApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextLoads2() {
+	}
+
 }
