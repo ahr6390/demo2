@@ -11,7 +11,7 @@ class Demo2ApplicationTests {
 	}
 
 	@Test
-	void contextLoads2() {
+	void contextLoads2(int a) {
 	}
 
 }
