@@ -14,4 +14,7 @@ class Demo2ApplicationTests {
 	void contextLoads2(int a) {
 	}
 
+	void contextLoads3(int a) {
+	}
+
 }
