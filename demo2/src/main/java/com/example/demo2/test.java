@@ -8,8 +8,7 @@ class test {
     void contextLoads2(int a) {
     }
 
-    @Test
-    void contextLoads3(int b) {
+    void contextLoads3(int a) {
     }
 
 }
