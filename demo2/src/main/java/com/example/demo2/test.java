@@ -8,7 +8,7 @@ class test {
     void contextLoads2(int a) {
     }
 
-    void contextLoads3(int a) {
+    void contextLoads3(int b) {
     }
 
 }
